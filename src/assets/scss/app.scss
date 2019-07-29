@@ -1,0 +1,23 @@
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
+.main-container {
+  max-width: 100% !important;
+}
+
+.full-height-overflow {
+  overflow-x: scroll;
+  height: 100vh;
+}
+
+.no-locations {
+  height: 25%;
+  top: 25%;
+  position: absolute;
+  width: 95%;
+}
